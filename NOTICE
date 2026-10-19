@@ -1,0 +1,12 @@
+session-fold
+Copyright 2026 Dodai0419, MIT License (see LICENSE).
+
+The fold step re-implements, in its own code, the tokenizer pattern, abbreviation list, sentence rules and
+word budgets of TextFold (https://github.com/chenxiachan/textfold), Copyright 2026 Xia Chen,
+licensed under the Apache License, Version 2.0 (http://www.apache.org/licenses/LICENSE-2.0).
+
+The session counts follow the definitions of agentplay (https://github.com/Entelligence-AI/agentplay),
+Copyright 2026 Entelligence AI, Inc., licensed under the Apache License, Version 2.0. No agentplay source
+file is copied.
+
+fixtures/session.jsonl is a synthetic Claude Code transcript written for this repo; it contains no real user data.

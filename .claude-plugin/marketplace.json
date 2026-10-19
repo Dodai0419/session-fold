@@ -1,0 +1,13 @@
+{
+  "name": "session-fold",
+  "owner": {
+    "name": "Dodai0419"
+  },
+  "plugins": [
+    {
+      "name": "session-fold",
+      "source": "./",
+      "description": "Read what your coding agent did at five zoom levels, from a one-line map to every step."
+    }
+  ]
+}

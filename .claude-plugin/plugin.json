@@ -1,0 +1,8 @@
+{
+  "name": "session-fold",
+  "description": "Read what your coding agent did at five zoom levels, from a one-line map to every step.",
+  "version": "0.1.0",
+  "author": {
+    "name": "Dodai0419"
+  }
+}
