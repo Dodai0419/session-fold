@@ -81,3 +81,8 @@ Where the folds differ: TextFold parses Markdown with markdown-it, so nested lis
 
 ## License
 MIT. Portions follow Apache-2.0 code; see LICENSE.
+
+## Related tools
+- [agent-board](https://github.com/Dodai0419/agent-board): see every Claude Code and Codex session at once
+- [session-panel](https://github.com/Dodai0419/session-panel): replay a Claude Code session as an animated panel
+- All tools, one install pattern: [github.com/Dodai0419](https://github.com/Dodai0419)
